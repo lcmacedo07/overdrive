@@ -65,5 +65,10 @@ Gerar a key do projeto Laravel
 php artisan key:generate
 ```
 
+Acessar a documentação do Swagger
+```sh
+http://localhost:8955/api/documentation
+```
+
 Acesse o projeto
 [http://localhost:8955](http://localhost:8955)
