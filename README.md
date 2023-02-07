@@ -4,7 +4,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/gestaobytes/overdrive
+git clone https://github.com/lcmacedo07/overdrive
 ```
 
 ```sh
